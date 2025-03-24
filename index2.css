@@ -1,5 +1,5 @@
 * {
-  background-color: #efe7e3;
+  background-color: #dcb2ff;
   text-decoration: none;
 }
 .frame {
@@ -13,7 +13,7 @@
   justify-content: space-between;
   font-family: "Montserrat", serif;
   font-size: 25px;
-  color: #8c8885;
+  color: #000000;
 }
 
 .work-info {
@@ -26,7 +26,7 @@
 .work-info a {
   font-family: "Montserrat", serif;
   font-size: 25px;
-  color: #8c8885;
+  color: #000000;
   font-weight: bold;
 }
 
@@ -37,10 +37,10 @@
 .sub1 {
   font-family: "Roboto", serif;
   font-size: 23px;
-  color: #8c8885;
+  color: #000000;
 }
 .sub1 a {
-  color: #8c8885;
+  color: #6d1f00;
 }
 .highlight1:hover {
   color: white;
@@ -66,7 +66,7 @@ hr {
 .recent-work {
   font-family: "Roboto", serif;
   font-size: 18px;
-  color: #8c8885;
+  color: #000000;
   text-transform: uppercase;
 
   align-self: flex-end;
@@ -144,7 +144,7 @@ footer ul li {
   display: flex;
 }
 .content1-sub1 {
-  background: url('https://media.nature.com/lw767/magazine-assets/d41586-025-00649-4/d41586-025-00649-4_50703798.jpg?as=webp');
+  background: url('https://www.cgchannel.com/wp-content/uploads/2025/03/250304_Godot44_5KeyFeatures_f.jpg');
   width: 40%;
   height: 150px;
   background-size: cover;
@@ -157,7 +157,7 @@ footer ul li {
 }
 .sub-title {
   font-family: "Source Sans 3", serif;
-  font-size: 13px;
+  font-size: 20px;
   color: black;
   font-weight: bold;
 }
@@ -195,7 +195,7 @@ footer ul li {
   margin-right: 20px;
 }
 .content2-sub2 {
-  background: url('https://imageio.forbes.com/specials-images/imageserve/67318dc25e90f53209c2dcc7/Software-developers-at-work-/0x0.jpg?format=jpg&crop=859,644,x192,y0,safe&width=1440');
+  background: url('https://imgs.search.brave.com/DmzSbJiOxP2VNgo3jPZGea7TgsySRUBwNgfX1pkitFU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnRs/YXVuY2hlci5vcmcv/aW1hZ2VzL21haW4t/bWVudS1mYWJyaWMt/bWluZWNyYWZ0LnBu/Zw');
   width: 40%;
   height: 150px;
   background-size: cover;
