@@ -5,7 +5,6 @@
 .frame {
   display: flex;
   flex-direction: column;
-  /* border: 1px solid black; */
   margin: 30px 150px;
 }
 .navbar {
@@ -140,7 +139,6 @@ footer ul li {
 .content-1 {
   width: 80%;
   height: 150px;
-  /* border: 1px solid black; */
   display: flex;
 }
 .content1-sub1 {
@@ -184,9 +182,8 @@ footer ul li {
 .content-2 {
   width: 80%;
   height: 150px;
-  /* border: 1px solid black; */
   margin-top: 50px;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   display: flex;
 }
 .content2-sub1 {
