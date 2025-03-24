@@ -1,0 +1,203 @@
+* {
+  background-color: #efe7e3;
+  text-decoration: none;
+}
+.frame {
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid black; */
+  margin: 30px 150px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  font-family: "Montserrat", serif;
+  font-size: 25px;
+  color: #8c8885;
+}
+
+.work-info {
+  display: flex;
+}
+.work-info li {
+  list-style: none;
+  margin-left: 25px;
+}
+.work-info a {
+  font-family: "Montserrat", serif;
+  font-size: 25px;
+  color: #8c8885;
+  font-weight: bold;
+}
+
+.work-info a:hover {
+  color: white;
+  transition: 0.3s;
+}
+.sub1 {
+  font-family: "Roboto", serif;
+  font-size: 23px;
+  color: #8c8885;
+}
+.sub1 a {
+  color: #8c8885;
+}
+.highlight1:hover {
+  color: white;
+  -webkit-text-stroke: 1px black;
+}
+.highlight2:hover {
+  background-color: pink;
+}
+.highlight3:hover {
+  background-color: rgb(192, 193, 255);
+}
+.sub2 {
+  font-family: "Montserrat", serif;
+  font-size: 13px;
+  color:black;
+  font-style: italic;
+}
+hr {
+  height: 1px;
+  margin: 0;
+  /* border: none; */
+}
+.recent-work {
+  font-family: "Roboto", serif;
+  font-size: 18px;
+  color: #8c8885;
+  text-transform: uppercase;
+
+  align-self: flex-end;
+}
+.contact {
+  font-family: "Roboto", serif;
+  font-size: 18px;
+  color: #8c8885;
+  font-weight: bold;
+}
+footer {
+  display: flex;
+  flex-direction: column;
+}
+.contact {
+  align-self: center;
+  margin-bottom: 5px;
+}
+footer ul {
+  align-self: center;
+  display: flex;
+  margin-top: 0;
+  padding-left: 0;
+}
+
+footer ul li {
+  list-style: none;
+  margin-left: 20px;
+  font-size: 15px;
+}
+.github{
+  background: url('https://cdn-icons-png.flaticon.com/512/25/25231.png');
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+  background-position: center;
+}
+.facebook {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/800px-Facebook_logo_%28square%29.png');
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+  background-position: center;
+}
+.instagram {
+  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png');
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+  background-position: center;
+}
+.youtube {
+  background: url('https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png');
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+  background-position: center;
+}
+.linkedin{
+  background: url('https://cdn-icons-png.flaticon.com/512/174/174857.png');
+  width: 20px;
+  height: 20px;
+  background-size: cover;
+  background-position: center;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content-1 {
+  width: 80%;
+  height: 150px;
+  /* border: 1px solid black; */
+  display: flex;
+}
+.content1-sub1 {
+  background: url('https://media.nature.com/lw767/magazine-assets/d41586-025-00649-4/d41586-025-00649-4_50703798.jpg?as=webp');
+  width: 40%;
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+}
+.content1-sub2 {
+  width: 60%;
+  height: 150px;
+  margin-left: 20px;
+}
+.sub-title {
+  font-family: "Source Sans 3", serif;
+  font-size: 13px;
+  color: black;
+  font-weight: bold;
+}
+.body {
+  font-family: "Source Sans 3", serif;
+  font-size: 13px;
+  color: black;
+}
+.more-button {
+  font-family: "Source Sans 3", serif;
+  font-size: 13px;
+  color: black;
+}
+.resume-container {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+
+.content-2 {
+  width: 80%;
+  height: 150px;
+  /* border: 1px solid black; */
+  margin-top: 50px;
+  margin-bottom: 100px;
+  display: flex;
+}
+.content2-sub1 {
+  width: 60%;
+  height: 150px;
+  margin-right: 20px;
+}
+.content2-sub2 {
+  background: url('https://imageio.forbes.com/specials-images/imageserve/67318dc25e90f53209c2dcc7/Software-developers-at-work-/0x0.jpg?format=jpg&crop=859,644,x192,y0,safe&width=1440');
+  width: 40%;
+  height: 150px;
+  background-size: cover;
+  background-position: center;
+}
