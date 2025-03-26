@@ -103,27 +103,6 @@ footer ul li {
   background-size: cover;
   background-position: center;
 }
-.facebook {
-  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/800px-Facebook_logo_%28square%29.png');
-  width: 20px;
-  height: 20px;
-  background-size: cover;
-  background-position: center;
-}
-.instagram {
-  background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png');
-  width: 20px;
-  height: 20px;
-  background-size: cover;
-  background-position: center;
-}
-.youtube {
-  background: url('https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png');
-  width: 20px;
-  height: 20px;
-  background-size: cover;
-  background-position: center;
-}
 .linkedin{
   background: url('https://cdn-icons-png.flaticon.com/512/174/174857.png');
   width: 20px;
@@ -177,8 +156,6 @@ footer ul li {
   margin-top: 50px;
   margin-bottom: 50px;
 }
-
-
 .content-2 {
   width: 80%;
   height: 150px;
